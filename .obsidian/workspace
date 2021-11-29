@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "0938d8f022314fec",
+    "type": "split",
+    "children": [
+      {
+        "id": "465bdf83c0d64051",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "442d510c871201e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdb50cd00891d1fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f64b701fc710c827",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b8a5833ca0ce20a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58a10f269109d0cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "45824e31f30eba94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81533aaa1af5fc80",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ac5c80cc4d16a246",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "465bdf83c0d64051",
+  "lastOpenFiles": [
+    "README.md",
+    "daily/2021-11-28.md",
+    "templates/Daily.md",
+    "notes/Untitled 1.md",
+    "reports/Notes Inbox.md",
+    "reports/Low Priority Tasks.md",
+    "notes/How to Take Smart Notes.md",
+    "notes/Untitled.md",
+    "notes/Configure the minimum required plugins.md",
+    "notes/Creating Notes.md"
+  ]
+}

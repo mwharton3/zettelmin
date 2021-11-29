@@ -1,0 +1,20 @@
+{
+  "files": [
+    "Default Note.md"
+  ],
+  "templaterFiles": [],
+  "newFileTemplates": [
+    {
+      "folder": "notes",
+      "path": "Default Note.md",
+      "plugin": "core"
+    },
+    {
+      "folder": "notes",
+      "path": "Meeting Notes.md",
+      "plugin": "core"
+    }
+  ],
+  "openNewFileTemplateInNewPane": true,
+  "useNewFileTemplateOnFileCreation": true
+}

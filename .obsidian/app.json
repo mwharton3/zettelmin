@@ -1,0 +1,28 @@
+{
+  "vimMode": false,
+  "promptDelete": false,
+  "fileSortOrder": "byCreatedTime",
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "defaultViewMode": "preview",
+  "mobileToolbarCommands": [
+    "file-explorer:new-file",
+    "insert-template",
+    "obsidian-tasks-plugin:edit-task",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-highlight",
+    "editor:toggle-blockquote",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-keyboard",
+    "editor:toggle-strikethrough",
+    "editor:configure-toolbar"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "mobilePullAction": "global-search:open",
+  "foldHeading": true
+}

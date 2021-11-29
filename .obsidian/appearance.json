@@ -1,0 +1,8 @@
+{
+  "baseFontSize": 20,
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "center_element"
+  ]
+}
