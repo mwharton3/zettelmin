@@ -1,7 +1,7 @@
 # Zettelmin
 A minimal, pre-configured personal knowledge management system (PKMS), built with [Obsidian](https://obsidian.md/) using the [[Zettelkasten]] philosophy.
 
-🌟**_If you jot down scattered notes, tasks, and lists that get forgotten over time, this is for you (even if you're not a developer)._**🌟
+🌟 **_If you jot down scattered notes, tasks, and lists that get forgotten over time, this is for you (even if you're not a developer)._**🌟
 
 ❗ **_This README is written to be viewed in Obsidian so relative links will work_**
 
