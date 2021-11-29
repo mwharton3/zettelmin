@@ -3,6 +3,8 @@ A minimal, pre-configured personal knowledge management system (PKMS), built wit
 
 🌟**_If you jot down scattered notes, tasks, and lists that get forgotten over time, this is for you (even if you're not a developer)._**🌟
 
+❗ **_This README is written to be viewed in Obsidian so relative links will work_**
+
 # Overview
 This system is meant to be a minimal implementation of [[Zettelkasten]] and [[Evergreen Notes]] principles. The README mostly follows these principles and is meant to kick-start a seamless approach to notetaking and [[personal knowledge management]].
 
